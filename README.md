@@ -1,1 +1,1 @@
-# lessonsProstoRazrabotka
+HTML тэги. Начало. Классификация тэгов. (Блочные / Строчные / Парные / Одиночные) https://www.youtube.com/watch?v=8dv6JF0Jork https://codepen.io/vitaliy_kirenkov/pen/jdQYJN
